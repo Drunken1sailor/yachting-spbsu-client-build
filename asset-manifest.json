@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3b079da4.css",
+    "main.js": "/static/js/main.94b95361.js",
+    "static/js/787.34dea68c.chunk.js": "/static/js/787.34dea68c.chunk.js",
+    "static/media/bg.mp4": "/static/media/bg.5c2ea94eb749c9d1c339.mp4",
+    "static/media/headerBg.jpg": "/static/media/headerBg.6d0eb31d18f3e898295c.jpg",
+    "static/media/bg.jpg": "/static/media/bg.bcc8947874bbbd94efeb.jpg",
+    "static/media/leti.jpg": "/static/media/leti.8bb824721db74a68000c.jpg",
+    "static/media/event.jpg": "/static/media/event.f1ff9041136a7bebc9f3.jpg",
+    "static/media/logo.png": "/static/media/logo.c58d7cd06fd871461cde.png",
+    "static/media/newsImg.jpg": "/static/media/newsImg.f112323355e6a768de06.jpg",
+    "static/media/parallax.jpg": "/static/media/parallax.56248f69a95adcaa2eb1.jpg",
+    "static/media/SuisseIntl-Regular.ttf": "/static/media/SuisseIntl-Regular.7ea99720633194a9e3c4.ttf",
+    "static/media/SuisseIntl-Bold.ttf": "/static/media/SuisseIntl-Bold.bf8242ed74ac28455bf4.ttf",
+    "static/media/politech.jpg": "/static/media/politech.e3649e89949482c321af.jpg",
+    "static/media/bonch.jpg": "/static/media/bonch.1190eafba1e45c9e7391.jpg",
+    "static/media/user.png": "/static/media/user.a6143582309785dca610.png",
+    "static/media/vk.png": "/static/media/vk.46a727c40540261a6ad3.png",
+    "static/media/telegram.png": "/static/media/telegram.e9722f26cc228e817986.png",
+    "static/media/clock.png": "/static/media/clock.dc550a9f52c407d30fa5.png",
+    "static/media/facebook.png": "/static/media/facebook.01a470d813915c298403.png",
+    "static/media/loupe.png": "/static/media/loupe.6937d3eef3958afeb093.png",
+    "static/media/calendar.png": "/static/media/calendar.4b59ba29906c2f748e64.png",
+    "static/media/mail.png": "/static/media/mail.0fd6a55b4579eb18e3d5.png",
+    "static/media/vkontakte.png": "/static/media/vkontakte.3eea0d4834a65e4dddb5.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.3b079da4.css.map": "/static/css/main.3b079da4.css.map",
+    "main.94b95361.js.map": "/static/js/main.94b95361.js.map",
+    "787.34dea68c.chunk.js.map": "/static/js/787.34dea68c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b079da4.css",
+    "static/js/main.94b95361.js"
+  ]
+}
